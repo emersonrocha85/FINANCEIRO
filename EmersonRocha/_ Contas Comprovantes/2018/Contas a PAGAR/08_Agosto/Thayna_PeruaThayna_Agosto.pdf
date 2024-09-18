@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="pt-br">
+
+
+
+
+
+
+
+<head>
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Content-Type" content="text/html;CHARSET=iso-8859-1" />
+	<link rel="shortcut icon" href="http://www.bradesco.com.br/bradesco.ico"/>
+	<title>Banco Bradesco S/A</title>
+
+	
+	
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/estrutura.css" />
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/interna.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/jquery.jqmodal.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/jquery.tooltip.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/jquery.autocomplete.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/jquery.combo.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/datePicker.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/sei/sei.css" />
+
+
+	
+
+
+
+	
+	
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.ui.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.jqmodal.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.combo.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.tooltip.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.autocomplete.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.cookie.min.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jqDnR.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.livequery.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.datepicker.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.atalho.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/default.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/date.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/validacoes.js"></script>
+
+
+	
+
+
+
+	<!--[if lt IE 8]>
+	
+
+
+	
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/geral_ie.css" />
+
+
+	<![endif]-->
+
+	<!--[if lt IE 7]>
+	
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/pngfix.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/jquery.bgiframe.js"></script>
+
+<script type="text/javascript" src="https://www.ib3.bradesco.com.br/ibpf/conteudo/js/geral/default_ie.js"></script>
+
+
+	
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.ib3.bradesco.com.br/ibpf/conteudo/css/geral/geral_ie6.css" />
+
+
+	<![endif]-->
+
+	
+		<script type="text/javascript">
+		<!--
+			document.domain = "bradesco.com.br";
+		//-->
+		</script>
+		<noscript></noscript>
+	
+</head>
+<body style="background-color:transparent;">
+
+	<div id="modalInfraEstrutura" class="jqmWindow_infra_estrutura" style="width:532px;">
+		<a id="elemento_tabfirst" href="javascript:;;jsessionid=00006pdnoUmjpJLV9JE-LyA98gF:162mm2i77" title="Voc&#234; est&#225; na p&#225;gina de sele&#231;&#227;o do formato para salvar o arquivo. Utilize a tecla TAB para navegar." class="tabindex tabfirst"></a>
+		<div class="jqmCornerTop"><span class="cc"><!-- --></span><span class="c1"><!-- --></span><span class="c2"><!-- --></span></div>
+	
+		<div class="jqmWrapper after">
+			<div class="jqmTop after">
+				
+					
+				<a id="_id31" href="javascript:;//;jsessionid=00006pdnoUmjpJLV9JE-LyA98gF:162mm2i77" title="Fechar" class="lnkFechar closeModal tabindex">Fechar2</a>
+				<h4>Salvar como Arquivo</h4>
+			</div>
+            <div id="modalSalvarComo"><div class="jqmContent after"><form id="formSalvarComo" name="formSalvarComo" method="post" action="/ibpfsei/salvarComoArquivoSimples.jsf;jsessionid=00006pdnoUmjpJLV9JE-LyA98gF:162mm2i77" enctype="application/x-www-form-urlencoded"><input type="hidden" name="jsf_tree_64" id="jsf_tree_64" value="H4sIAAAAAAAAALVWTW7TQBSetilSJQRUnKAqmyI0JI6dtGJV6F9QgappEbvoxZ40Tm2POzN2U5ZcgC1HYMEtOA/iCkwmjZ2E1rXHiheOJ9b33jff+97z/PqDVjlDbyi7wDCAoTngPQxh6Lk2CJcGeFf+2RYgyAcI4IKwF2eMkLZgkS0iRj5Sh3z7/vfH797m2mOEhuFXhCoIbc6Es6kf0oAEQgX77JLrU0oFWuvEk8fx9QxtDSCGIe6BTfgUrC98Dx/J26dIhJE4I0OBKh3XqaLJ9VolDMHuE+zf3OIjLqiPHRDguVyoAHtycSwXCl67BS+hwy4bpcNdBg7hNsXXpIvhCo8Ipjw47gIn+Ly16zinhNOI2XMrFdYox6qesNrLyQrYlaTRFjce4X1CxMxCxTTLUbIWQKlRjlJzMbXbLsdqR1Oo99L23GZuKGYWaHXk0hIuV/jaIkilJr+jZ9UQuK9xFbxeck/mIvZklSTV0CR1X5uooM0soTM13tZG7pQTwqhqCpFVHaNWkpShSSqrOkZdV2MjHckbGdtxY7znxui5Tx3wWkGPwT6X31756YVbdCVn5mM3uETrxCO+fEk7Aro9l3FRhIXi3cyLUEMggU0stZI3UX1iouUiG1TIdOAVLEo9c6rNIE8gIN4ho1E4RtaT/RXNaebOOY+0tJHpxzdHNZ4q87XBi4G9oz5N1M1byfRbvfkAzwPKfPSkJ+//pXuU1fYcYsJHh9RRi8pndWAdJ0+noHUXfpaDFEjxaAVSriPXcUiAKsINaRJk634SowhncKECyN9x+vREULBGZlU3pznx/3JhpJEgC4gli+RD4Kj+q4zeJEE2BmoI3Lnv89YJMPCJIGycOx2lZv7c86KZ2qJZqWgFC5U2U1FkU5vtdsJWs1ArodObqlO+EqXnAv0SWdq+tqZ8XUxoK/9cn0fWtdmaCducc9JKLfjyAZbTlVRQbQ9a2h60Jh5cQq+yc8ohsPRzwvltJAQN0HpXBPtB7AI7IHYfWOdLwiOvXDvacjWqunI1akVpNtKZWjSX9uGyUehwqRDJWWL4D6Zj+5gSEgAA" /><input type="hidden" name="jsf_state_64" id="jsf_state_64" value="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" /><input type="hidden" name="jsf_viewid" id="jsf_viewid" value="/salvarComoArquivoSimples.jsp" /><input type="hidden" id="tipo" name="tipo" value="simples" /><p class="subtitle">Clique no link referente ao formato de arquivo que voc&#234; deseja salvar no seu computador:</p><ul class="lstArquivos after"><li class="itemHTML"><a href="#" onclick="clear_formSalvarComo();document.forms['formSalvarComo'].elements['autoScroll'].value=getScrolling();document.forms['formSalvarComo'].elements['formSalvarComo:_link_hidden_'].value='formSalvarComo:html';document.forms['formSalvarComo'].elements['formato'].value='html';document.forms['formSalvarComo'].target='_blank';if(document.forms['formSalvarComo'].onsubmit){if(document.forms['formSalvarComo'].onsubmit()) document.forms['formSalvarComo'].submit();}else{document.forms['formSalvarComo'].submit();}return false;" id="formSalvarComo:html" target="_blank" title="Salvar como arquivo no formato pagina HTML. Tamanho aproximado,   KB" class="tabindex">HTML (Reprodu&#231;&#227;o desta tela)</a><span>&nbsp;</span></li><li class="itemPDF"><a href="#" onclick="clear_formSalvarComo();document.forms['formSalvarComo'].elements['autoScroll'].value=getScrolling();document.forms['formSalvarComo'].elements['formSalvarComo:_link_hidden_'].value='formSalvarComo:pdf';document.forms['formSalvarComo'].elements['formato'].value='pdf';if(document.forms['formSalvarComo'].onsubmit){if(document.forms['formSalvarComo'].onsubmit()) document.forms['formSalvarComo'].submit();}else{document.forms['formSalvarComo'].submit();}return false;" id="formSalvarComo:pdf" title="Salvar como arquivo no formato PDF. Tamanho aproximado,   KB" class="tabindex">PDF (Arquivo para leitura)</a><span>&nbsp;</span></li></ul><ul class="lstButtons after"><li><input id="formSalvarComo:btnEnviarFechar_X" name="formSalvarComo:btnEnviarFechar_X" type="button" value="" onclick="javascript:parent.fecharModalInfraEstrutura(); return false;;clear_formSalvarComo();document.forms['formSalvarComo'].elements['autoScroll'].value=getScrolling();" title="Fechar" class="bto_fechar botao_sei tabindex" /></li></ul><input type="hidden" name="formSalvarComo_SUBMIT" value="1" /><input type="hidden" name="autoScroll" /><input type="hidden" name="formato" /><input type="hidden" name="formSalvarComo:_link_hidden_" /><script type="text/javascript"><!--
+function clear_formSalvarComo() {
+  var f = document.forms['formSalvarComo'];
+  f.elements['formato'].value='';
+  f.elements['formSalvarComo:_link_hidden_'].value='';
+  f.target='';
+}
+clear_formSalvarComo();
+//--></script></form></div></div>
+
+
+
+
+
+
+
+
+
+    
+    
+        
+              
+            
+            
+
+            
+                
+            
+
+            
+                
+                    
+                        
+                        
+                    
+                    
+                        
+						
+                    
+                
+                
+                    
+                        
+                        
+                    
+                    
+                        
+						
+                    
+                
+            
+
+            
+            
+				
+					
+					
+				
+            
+                
+                    <!--  h:commandLink styleClass="bto_fechar closeModal numeric tabindex" onclick="javascript:parent.fecharModalInfraEstrutura(); return;" title="#{messageBundle.servicosalvarcomoarquivo_fechar}" value="#{messageBundle.servicosalvarcomoarquivo_fechar}" / -->
+                    
+                    
+                    
+                
+            
+            
+			
+				
+				
+			
+
+        
+    
+
+
+            <div class="txt-codigoTela">RSA01</div>
+		</div>
+
+		<div class="jqmCornerBottom"><span class="cc"><!-- --></span><span class="c3"><!-- --></span><span class="c4"><!-- --></span></div>
+
+    </div>
+</body>
+<script type="text/javascript"><!--
+function getScrolling() {
+    var x = 0; var y = 0;
+    if (self.pageXOffset) {
+        x = self.pageXOffset;
+        y = self.pageYOffset;
+    } else if (document.documentElement && document.documentElement.scrollLeft) {
+        x = document.documentElement.scrollLeft;
+        y = document.documentElement.scrollTop;
+    } else if (document.body) {
+        x = document.body.scrollLeft;
+        y = document.body.scrollTop;
+    }
+    return x + "," + y;
+}
+
+//--></script>
+</html>
