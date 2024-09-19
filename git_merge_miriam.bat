@@ -1,3 +1,5 @@
+timeout /t 30
+
 git pull
 
 git add .
